@@ -9,14 +9,14 @@ library (tidyr)
 library (ggplot2)
 library (dismo)
 
-setwd('C:/Users/Oli/Documents/Modules/RS/Practicals/Practical 2/Practical 2') 
+setwd('yourwd') 
 
 
 ### Read in data
 
 
 ### CSV (A)
-Chobe <- read.csv('Chobe_simple.csv') #copy and paste vals and column headers into a csv format
+Chobe <- read.csv('Chobe_simple.csv') #NB: copy and paste vals and column headers into a csv format
 
 
 ### AVIRIS (section B) & LANDSAT (B & C)
