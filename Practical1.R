@@ -8,7 +8,7 @@ library (plyr)
 library (dplyr) 
 
 
-setwd('C:/Users/Oli/Documents/Modules/RS/Practicals/Practical 1') 
+setwd('yourwd') 
 
 
 #read data
@@ -138,7 +138,7 @@ plot(Dense_rast)
 ##############################################################
 
 
-setwd('C:/Users/Oli/Documents/Modules/RS/R tutorial scripts/data') 
+setwd('yourwd') 
 
 
 ### 1. read in landsat data (as a list first as some bands have different resolution)
