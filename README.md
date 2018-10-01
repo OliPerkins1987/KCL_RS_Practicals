@@ -12,6 +12,8 @@ dplyr
 tidyr
 ggplot2.
 
+The code assumes you have the relevant data downloaded & unzipped in your wd. 
+
 Any bugs, questions and queries, drop me an email on oliver.perkins@kcl.ac.uk
 
 OP
